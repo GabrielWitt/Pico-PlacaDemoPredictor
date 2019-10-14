@@ -7,3 +7,12 @@ Good code structure, avoiding repetition and favoring a consistent organization.
 Correct usage of version control tools, with a good commit history and incremental software delivery practices.
 Automated testing with any framework or tool of your choice.
 We value candidates that love clean, well-structured code, and that can solve problems in a creative way.
+
+This app has beem made in IONIC FRAMEWORK
+Steps to make this project work:
+
+1)Download nodejs, angular and ionic from their respective webpages.
+2)Download this project.
+3)Open the main folder of this project in Terminar or Windows commands program (CMD.exe)
+4)Type: npm intall to download all the angular modules.
+5)Type: ionic serve and the compilation will open in you browser.
