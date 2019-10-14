@@ -11,8 +11,8 @@ We value candidates that love clean, well-structured code, and that can solve pr
 This app has beem made in IONIC FRAMEWORK
 Steps to make this project work:
 
-1)Download nodejs, angular and ionic from their respective webpages.
+1)Download nodejs and ionic from their respective webpages.
 2)Download this project.
 3)Open the main folder of this project in Terminar or Windows commands program (CMD.exe)
-4)Type: npm intall to download all the angular modules.
+4)Type: npm install to download all the angular modules.
 5)Type: ionic serve and the compilation will open in you browser.
